@@ -1,0 +1,14 @@
+{
+  "name": "markdown-it-base-url",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.ts",
+  "scripts": {},
+  "author": "bleaklake",
+  "license": "MIT",
+  "dependencies": {
+    "@types/markdown-it": "^13.0.7",
+    "markdown-it": "^14.1.0",
+    "xml-js": "^1.6.11"
+  }
+}
